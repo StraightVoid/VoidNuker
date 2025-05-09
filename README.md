@@ -4,6 +4,10 @@
 
 VoidNuker is a powerful Discord administration bot written in Python, built on `discord.py`. It offers destructive and utility commands for server maintenance and management, all configurable via a `config.json` file.
 
+## ❗ Important
+
+- **`Make sure to change the token in config.json to your own bots token!`**
+
 ## 🚀 Features
 
 - **`$nuke`**: Deletes all channels, creates 150 `NUKED-XXXX` channels, spams each with an invite link, and bans all members (excluding the bot).
