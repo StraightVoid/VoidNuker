@@ -1,8 +1,8 @@
-# Voidbot
+# VoidNuker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) [![discord.py](https://img.shields.io/badge/discord.py-stable-success.svg)](https://discordpy.readthedocs.io/)
 
-Voidbot is a powerful Discord administration bot written in Python, built on `discord.py`. It offers destructive and utility commands for server maintenance and management, all configurable via a `config.json` file.
+VoidNuker is a powerful Discord nuke bot written in Python, built on `discord.py`. It offers destructive and utility commands for server maintenance and management, all configurable via a `config.json` file.
 
 ## ❗ Important
 
