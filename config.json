@@ -1,9 +1,10 @@
 {
+  "token": "TOKEN",
   "delete_batch_size": 20,
-  "delay_between_batches": 1,
   "create_batch_size": 20,
+  "delay_between_batches": 1,
   "ping_batch_size": 50,
   "spam_count": 5,
   "invite_link": "https://discord.gg/dywfjBVvsE",
-  "token": "ENTER TOKEN HERE"
+  "version": "1.0.2"
 }
