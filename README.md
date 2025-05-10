@@ -24,8 +24,8 @@ VoidNuker is a powerful Discord nuke bot written in Python, built on `discord.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your_username>/Voidbot.git
-cd Voidbot
+git clone https://github.com/StraightVoid/VoidNuker.git
+cd VoidNuker
 
 # Create and activate a virtual environment
 python3 -m venv venv
